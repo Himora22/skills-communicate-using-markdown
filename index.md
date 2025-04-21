@@ -9,3 +9,7 @@
 ##### H5 Almost at the last one
 
 ###### H6 This is the smallest markdown header
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Image_of_a_Chinese_Imperial_Dog](https://img.freepik.com/premium-vector/chinese-imperial-dog-breed-cute-cartoon-kawaii-character-animal-pet-isolated-sticker-illustration_633389-1864.jpg?w=2000)
